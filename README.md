@@ -7,6 +7,6 @@ All of this technology is out for grabs but providing ease of integration and cu
  
 POLARIS will allow your business to manage the remote service assistance starting from the moment a customer navigates to your web or mobile application through the one on one interaction between the later and a company representative making business more effective and elevating the quality of experience for your users.
 
-After provisioning your own environment, you can customize your own business rules as to who employee a customer should be contacted with based on what he is looking for and employee workload/availability.
+After provisioning your own environment, you can customize your own business rules as to who employee a customer should be contacted with based on what he is looking for and employees workload and availability.
 
-Hook up POLARIS to your existing web and mobile applications and make the most of this cutting edge technology to bring your Customer Service up to a whole new level.
+Hook up POLARIS to your existing web and mobile applications and make the most of this cutting edge technology to bring your customer service up to a whole new level.
