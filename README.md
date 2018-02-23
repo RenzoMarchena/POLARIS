@@ -1,5 +1,4 @@
 # POLARIS
-<img src="https://github.com/RenzoMarchena/Polaris/blob/master/images/Polaris.jpg" alt="Polaris logo"/>
 
 Nowadays customers are more demanding than ever and customer service has to live up to their expectations. Therefore, several businesses require a more agile way of communicating with their customers to solve their inquiries in a timely manner by offering non-presential assistance with the use of bots, and the capability to connect with a remote advisor using online and mobile integrated messaging, audio, and video experiences.
  
